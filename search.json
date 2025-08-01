@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jordan Rudge",
+    "section": "",
+    "text": "sadravioli.github.io/cv/\n\n github.com/SadRavioli\n\n London, United Kingdom\n\n linkedin.com/in/jordan-rudge\n\n\n jrudge56@gmail.com\n\n\n\n\nFull-stack web developer with over three years of experience in designing, developing, and maintaining responsive web solutions. Skilled in C#, .NET, HTML/CSS, DevExpress, JavaScript, and advanced SQL techniques. I have now led multiple projects adding new features to industry leading site, and have in doing some led planning and requirement gathering.\n\n\n\n\nFullstack Web Developer\n\nThe ECPR\n\n\nApr 2022 - Present\n\n\n\nProject lead of the ECPR’s new prizes system, that can handle many different prize formats and conditions. Additionally, this has provided an improved system for a colleague to work in, saving them a lot of time.\nLed the creation of the shop area of the ECPR website. A user can navigate a paged product grid by series, subject, date published or search string. This provided a new revenue stream for the company.\nImplemented Tawk.To chatbot/knowledgebase to the site while removing TalkJS, saving the company multiple thousands of pounds a year.\nEnhanced and maintained the ECPR website(s) using C#, .NET/Entity Framework, and SQL.\nDeveloped responsive front-end interfaces with HTML, CSS, JavaScript, and DevExpress.\nConfigured database updates and structures through the codebase to support new features and pages.\nCollaborated with different teams to implement new features and improve user experience.\nSpearheaded the refactoring of legacy systems to modern technologies, improving reliability and maintainability.\n\n\nFrontend Developer\n\nNottingham County Fair\n\n\nDec 2019 - Feb 2020\n\n\n\nDeveloped the map and parking location features for the Nottingham County Fair app using Swift.\n\n\n\n\n\nBSc (Hons) in Computer Science with Games\n\nSep 2018 - August 2021\n\nNottingham Trent University\n\nNottingham, United Kingdom\n\n\n\n\n\nBackend Development:  C#, .NET Framework, Entity Framework,  SQL,  Python\nFrontend Development:  HTML5 /  CSS3,  JavaScript, Bootstrap, DevExpress\nDatabase Technologies: SQL Server\nDevelopment Tools: Visual Studio, SSMS, Azure Devops/Git, DevTools\nTesting & QA: Unit testing, performance optimisation, accessibility evaluation tools (WAVE)\nLanguages: English\n\n\n\n\nAdvanced SQL\n\nFeb 2024\n\nAcuity Training\n\nLondon, United Kingdom\n\nAzure AI Fundamentals\n\nAugust 2021\n\nMicrosoft\n\nNottingham, United Kingdom"
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "Jordan Rudge",
+    "section": "",
+    "text": "Full-stack web developer with over three years of experience in designing, developing, and maintaining responsive web solutions. Skilled in C#, .NET, HTML/CSS, DevExpress, JavaScript, and advanced SQL techniques. I have now led multiple projects adding new features to industry leading site, and have in doing some led planning and requirement gathering."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Jordan Rudge",
+    "section": "",
+    "text": "Fullstack Web Developer\n\nThe ECPR\n\n\nApr 2022 - Present\n\n\n\nProject lead of the ECPR’s new prizes system, that can handle many different prize formats and conditions. Additionally, this has provided an improved system for a colleague to work in, saving them a lot of time.\nLed the creation of the shop area of the ECPR website. A user can navigate a paged product grid by series, subject, date published or search string. This provided a new revenue stream for the company.\nImplemented Tawk.To chatbot/knowledgebase to the site while removing TalkJS, saving the company multiple thousands of pounds a year.\nEnhanced and maintained the ECPR website(s) using C#, .NET/Entity Framework, and SQL.\nDeveloped responsive front-end interfaces with HTML, CSS, JavaScript, and DevExpress.\nConfigured database updates and structures through the codebase to support new features and pages.\nCollaborated with different teams to implement new features and improve user experience.\nSpearheaded the refactoring of legacy systems to modern technologies, improving reliability and maintainability.\n\n\nFrontend Developer\n\nNottingham County Fair\n\n\nDec 2019 - Feb 2020\n\n\n\nDeveloped the map and parking location features for the Nottingham County Fair app using Swift."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jordan Rudge",
+    "section": "",
+    "text": "BSc (Hons) in Computer Science with Games\n\nSep 2018 - August 2021\n\nNottingham Trent University\n\nNottingham, United Kingdom"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Jordan Rudge",
+    "section": "",
+    "text": "Backend Development:  C#, .NET Framework, Entity Framework,  SQL,  Python\nFrontend Development:  HTML5 /  CSS3,  JavaScript, Bootstrap, DevExpress\nDatabase Technologies: SQL Server\nDevelopment Tools: Visual Studio, SSMS, Azure Devops/Git, DevTools\nTesting & QA: Unit testing, performance optimisation, accessibility evaluation tools (WAVE)\nLanguages: English"
+  },
+  {
+    "objectID": "index.html#certifications",
+    "href": "index.html#certifications",
+    "title": "Jordan Rudge",
+    "section": "",
+    "text": "Advanced SQL\n\nFeb 2024\n\nAcuity Training\n\nLondon, United Kingdom\n\nAzure AI Fundamentals\n\nAugust 2021\n\nMicrosoft\n\nNottingham, United Kingdom"
+  }
+]
