@@ -3,7 +3,7 @@
 
 # Jordan Rudge
 
-<span class="iconify" data-icon="charm:person"></span> [example.com](https://example.com/)
+<span class="iconify" data-icon="charm:person"></span> [sadravioli.github.io/](https://sadravioli.github.io/github.io/)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/SadRavioli](https://github.com/SadRavioli)
 
 <span class="iconify" data-icon="ic:outline-location-on"></span> London, United Kingdom
